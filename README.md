@@ -5,7 +5,7 @@ A modern, fully responsive multi-page website for a fictional IELTS preparation 
 ---
 
 ## 🚀 Live Demo
-[Add your deployed link here after deployment]
+https://prismatic-genie-e418b4.netlify.app/
 
 ---
 
@@ -71,7 +71,7 @@ npm install
 npm start
 ```
 
-The application will open at [http://localhost:3000](http://localhost:3000)
+The application will open at [http://localhost:5173](http://localhost:5173)
 
 ### Step 4: Build for Production
 ```bash
@@ -385,9 +385,9 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [pulkitgupta0624](https://github.com/pulkitgupta0624/IeltsAssignment)
+- Email: pulkitgupta2403@gmail.com
+- LinkedIn: [Pulkit Gupta](https://www.linkedin.com/in/pulkit-gupta-0624hp/)
 
 ---
 
